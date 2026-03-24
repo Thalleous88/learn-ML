@@ -4,14 +4,6 @@ A collection of Machine Learning and Deep Learning algorithms implemented **from
 
 ---
 
-## 📌 Philosophy
-
-> Understand the math. Write the code. Skip the magic.
-
-Every algorithm here is built from the ground up — no `scikit-learn`, no `PyTorch`, no `TensorFlow`. Just NumPy and the underlying mathematics.
-
----
-
 ## 🧠 Implemented Algorithms
 
 ### Logistic Regression (`logistic-regression/`)
