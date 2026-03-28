@@ -1,0 +1,17 @@
+{
+  "1": {"device_type": "Laptop", "visual_condition": "Cracked Screen", "power_on": false, "age_years": 7, "action": "Recycle"},
+  "2": {"device_type": "Smartphone", "visual_condition": "Normal", "power_on": true, "age_years": 2, "action": "Refurbish"},
+  "3": {"device_type": "Laptop", "visual_condition": "Minor Scratches", "power_on": true, "age_years": 4, "action": "Refurbish"},
+  "4": {"device_type": "Smartphone", "visual_condition": "Heavy Damage", "power_on": false, "age_years": 1, "action": "Salvage Parts"},
+  "5": {"device_type": "Laptop", "visual_condition": "Normal", "power_on": false, "age_years": 3, "action": "Salvage Parts"},
+  "6": {"device_type": "Smartphone", "visual_condition": "Cracked Screen", "power_on": true, "age_years": 5, "action": "Recycle"},
+  "7": {"device_type": "Tablet", "visual_condition": "Normal", "power_on": true, "age_years": 1, "action": "Refurbish"},
+  "8": {"device_type": "Laptop", "visual_condition": "Heavy Damage", "power_on": false, "age_years": 8, "action": "Recycle"},
+  "9": {"device_type": "Smartphone", "visual_condition": "Minor Scratches", "power_on": true, "age_years": 3, "action": "Refurbish"},
+  "10": {"device_type": "Tablet", "visual_condition": "Cracked Screen", "power_on": false, "age_years": 4, "action": "Salvage Parts"},
+  "11": {"device_type": "Laptop", "visual_condition": "Normal", "power_on": true, "age_years": 2, "action": "Refurbish"},
+  "12": {"device_type": "Smartphone", "visual_condition": "Normal", "power_on": false, "age_years": 6, "action": "Recycle"},
+  "13": {"device_type": "Tablet", "visual_condition": "Minor Scratches", "power_on": true, "age_years": 2, "action": "Refurbish"},
+  "14": {"device_type": "Laptop", "visual_condition": "Cracked Screen", "power_on": true, "age_years": 3, "action": "Salvage Parts"},
+  "15": {"device_type": "Smartphone", "visual_condition": "Heavy Damage", "power_on": true, "age_years": 4, "action": "Salvage Parts"}
+}
